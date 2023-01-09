@@ -1,5 +1,7 @@
 ### Hi there 👋
-cześć
+I'm:
+* studying cybersecurity at AGH 🎓
+* interested in astronomy ☄️, programming 💻, gaming ⌨️ and UNIX systems 🐧
 
 <!--
 **jSkwarczek/jSkwarczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
