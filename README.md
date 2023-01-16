@@ -3,6 +3,9 @@ I'm:
 * studying cybersecurity at AGH 🎓
 * interested in astronomy ☄️, programming 💻, gaming ⌨️ and Linux/UNIX systems 🐧
 
+Fork: [Primates Face Recognition](https://github.com/jSkwarczek/PrimateFaceRecognition) 🐵
+Papers with code: [Face Recognition: Primates in the Wild](https://paperswithcode.com/paper/face-recognition-primates-in-the-wild)
+
 <!--
 **jSkwarczek/jSkwarczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
